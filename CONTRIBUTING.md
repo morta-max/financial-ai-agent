@@ -25,7 +25,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/mortal/financial-ai-agent.git
+git clone https://github.com/morta-max/financial-ai-agent.git
 cd financial-ai-agent
 
 # 安装后端依赖

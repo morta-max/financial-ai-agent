@@ -45,3 +45,6 @@ docker-compose*.yml
 # Other
 *.tmp
 *.bak
+.github_token
+scripts/push_to_github.sh
+scripts/push_github.sh
