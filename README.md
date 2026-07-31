@@ -6,6 +6,8 @@
 [![Next.js 15](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)](https://fastapi.tiangolo.com/)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-purple)](https://modelcontextprotocol.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 A comprehensive AI agent platform that provides real-time A-share market data, technical analysis, fundamental analysis, valuation, risk assessment, and more — all accessible through a chat interface, REST API, and MCP (Model Context Protocol) server.
 
@@ -396,16 +398,23 @@ This project is for **educational and research purposes only**. It does not cons
 
 ---
 
-## 📝 License
+## 📝 Community
 
-MIT License — see LICENSE file for details.
+| Document | Description |
+|----------|-------------|
+| [📄 LICENSE](LICENSE) | MIT License — 自由使用、修改、分发 |
+| [🤝 CONTRIBUTING](CONTRIBUTING.md) | 贡献指南 — 如何提交 Issue/PR、代码规范 |
+| [📋 CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) | 行为准则 — 营造友好包容的社区环境 |
+| [🔒 SECURITY](SECURITY.md) | 安全策略 — 报告漏洞、安全最佳实践 |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions welcome! Please open issues or PRs for:
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+Quick areas for contribution:
 - New data sources (Tushare, Wind, etc.)
-- Additional technical indicators
+- Additional technical indicators and factor models
 - LLM integration (Claude, GPT, Gemini)
 - Bug fixes and performance improvements
