@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Node
+node_modules/
+.next/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (large binary files)
+data/*.duckdb
+data/*.duckdb.wal
+data/*.parquet
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Other
+*.tmp
+*.bak
